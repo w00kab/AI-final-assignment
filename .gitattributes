@@ -1,1 +1,6 @@
 results/random_forest_results/rf_model.pkl filter=lfs diff=lfs merge=lfs -text
+results/decision_tree_results/test_predictions_tree.csv filter=lfs diff=lfs merge=lfs -text
+results/gradient_boosting_results/test_predictions_gb.csv filter=lfs diff=lfs merge=lfs -text
+results/logistic_regression_results/test_predictions_lr.csv filter=lfs diff=lfs merge=lfs -text
+results/random_forest_results/test_predictions_rf.csv filter=lfs diff=lfs merge=lfs -text
+data/train.csv filter=lfs diff=lfs merge=lfs -text
